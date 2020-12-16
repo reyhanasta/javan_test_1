@@ -1,0 +1,14 @@
+Time : 21:42:42
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'javan_test.categories' doesn't exist
+Raw SQL : select * from categories
+
+Time : 21:42:37
+SQLSTATE[HY000] [1049] Unknown database 'javan_tsest'
+
+Time : 21:42:34
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'javan_test.categories' doesn't exist
+Raw SQL : select * from categories
+
+Time : 21:42:22
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'javan_test.categories' doesn't exist
+Raw SQL : select * from categories
